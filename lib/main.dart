@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Shopping App',
+        title: 'Shopping App ',
         theme: ThemeData(
           fontFamily: 'Lato',
           colorScheme: ColorScheme.fromSeed(
