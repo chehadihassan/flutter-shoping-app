@@ -1,6 +1,8 @@
 # shop_app
 
-A new Flutter project.
+A new Flutter shop project.
+
+https://shehady-shop.netlify.app/
 
 ## Getting Started
 
